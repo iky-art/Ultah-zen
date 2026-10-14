@@ -1,8 +1,8 @@
 /* ===== ISI DI SINI ===== */
 const CONFIG={
- name:"Alya", from:"Iky", pin:"100626", lang:"id", /* lang bawaan: "id" atau "en" */
+ name:"Zen", from:"Reva", pin:"100626", lang:"id", /* lang bawaan: "id" atau "en" */
  /* foto: isi src dengan path gambar, mis. "foto/1.jpg". Kosong = bisa diisi lewat tap */
- photos:[{src:"",cap:{id:"Sunset pertama kita",en:"Our very first sunset"}},{src:"",cap:{id:"Kafe yang selalu kita datangi",en:"The café we always return to"}},{src:"",cap:{id:"Sehari di pantai",en:"A day at the beach"}}],
+ photos:[{src:"/foto/Roblox.jpg",cap:{id:"Bermain Roblox Bersama",en:"Playing Roblox Together"}},{src:"/foto/MLBB.jpg",cap:{id:"Bermain Ml bersama",en:"Playing Ml together"}},{src:"/foto/Roblox 1.jpg",cap:{id:"Sehari di Roblox",en:"A day at the Roblox"}}],
  /* lagu: isi src dengan file mp3, mis. "lagu/1.mp3" */
  songs:[{t:"Song one",a:"Artist",src:""},{t:"Song two",a:"Artist",src:""},{t:"Song three",a:"Artist",src:""}],
  content:{
